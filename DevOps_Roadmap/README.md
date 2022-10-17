@@ -1,4 +1,4 @@
-[![devops](image/download.jpeg)](https://devops.uz/home)
+[![devops](image/devops.png)](https://devops.uz/home)
 
 
 # What is DevOps?
