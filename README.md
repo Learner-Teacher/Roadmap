@@ -1,2 +1,2 @@
 # Roadmap
-Hamma ozi uchun branch ochib olib ishlasin mainga push qilinmasin
+Hamma o'zi uchun branch ochib olib ishlasin mainga push qilinmasin
